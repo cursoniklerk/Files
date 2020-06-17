@@ -1,0 +1,13 @@
+{
+	"name": "prueba",
+	"properties": {
+		"description": "test",
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://jsonplaceholder.typicode.com/users",
+			"enableServerCertificateValidation": false,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
